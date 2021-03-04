@@ -19,7 +19,7 @@ namespace TestSpace
             Console.WriteLine(instanceArray.EvenSumPlus('E'));
             // Если мы идем по всем элементам массива
             Console.WriteLine(instanceArray.EvenSumPlus('V'));
-            // Просто проверка 
+
             //Console.WriteLine(instanceArray.EvenSumPlus(10000000)); 
 
 
